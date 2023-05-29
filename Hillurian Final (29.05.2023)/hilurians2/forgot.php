@@ -124,7 +124,7 @@ include "connection.php";
 			//set email subject
 			$mail->Subject="Password Reset Verification Mail";
 			//set sender email
-			$mail->setFrom("rminsimam1234@gmail.com",'Insi');
+			$mail->setFrom("your_mail@gmail.com",'Insi');
 			//using html codes
 			$mail->isHTML(true);
 			//attachment
