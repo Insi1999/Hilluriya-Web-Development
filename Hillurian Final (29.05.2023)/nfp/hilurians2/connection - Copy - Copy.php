@@ -1,9 +1,9 @@
 <?php
 
     $host="localhost";
-    $user="ictlk_hill";
-    $pw = "hilldb@1234";
-    $db = "ictlk_hill";
+    $user="user";
+    $pw = "abc@1234";
+    $db = "abcdb";
 
     $con=mysqli_connect($host,$user,$pw,$db);
 
