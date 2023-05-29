@@ -71,7 +71,7 @@ use PHPMailer\PHPMailer\Exception;
        //set email subject
        $mail->Subject="User Feedback";
        //set sender email
-       $mail->setFrom("rminsimam1234@gmail.com",'Insi');
+       $mail->setFrom("your_mail",'Insi');
        //using html codes
        $mail->isHTML(true);
        //attachment
