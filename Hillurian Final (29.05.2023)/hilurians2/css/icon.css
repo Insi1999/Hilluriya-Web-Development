@@ -1,0 +1,50 @@
+    
+    .blue-color {
+        color:blue;
+    }
+     
+    .green-color {
+        color:green;
+    }
+     
+    .teal-color {
+        color:teal;
+    }
+     
+    .yellow-color {
+    color:yellow;
+    }
+    
+    .red-color {
+        color:red;
+        
+    }
+    
+    .sizem{
+        font-size:70px;
+    }
+    
+    .cclr{
+        /* background-color:beige; */
+        color:#880900;
+    }
+    .cclr:hover{
+        background-color: #880900;
+        color:aliceblue;
+        transition: 0.2s;
+    }
+    /* .hdsc{
+        color:#880900;
+    }
+    .hdsc:hover{
+        color:aliceblue;
+    } */
+
+    /* <span id="boot-icon" class="bi bi-circle-fill" style="font-size:10rem"></span> */
+
+    /* .hdc{
+        font-size: 4vw;
+    }
+    .txtc{
+        font-size: 2vw;
+    } */
