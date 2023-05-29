@@ -137,7 +137,7 @@ if (isset($_POST['singup']))
         //set email subject
         $mail->Subject="Verification Mail";
         //set sender email
-        $mail->setFrom("rminsimam1234@gmail.com",'Insi');
+        $mail->setFrom("your_mail@gmail.com",'Insi');
         //using html codes
         $mail->isHTML(true);
         //attachment
