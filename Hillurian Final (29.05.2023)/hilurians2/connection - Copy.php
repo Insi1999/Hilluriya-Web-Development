@@ -1,9 +1,9 @@
 <?php
 
-    $host="fdb29.awardspace.net";
-    $user="4237056_hilluriya";
-    $pw = "hilluriya2023";
-    $db = "4237056_hilluriya";
+    $host="your.host.net";
+    $user="user";
+    $pw = "2023fun";
+    $db = "fundb";
 
     $con=mysqli_connect($host,$user,$pw,$db);
 
