@@ -44,7 +44,7 @@ $sqlr="select * from resend where ind='$in'";
         //set port to connect smtp
         $mail->Port="587";
         //set  gmail user name
-        $mail->Username="rminsimam1234@gmail.com";
+        $mail->Username="your_mail@gmail.com";
         //set email password
         $mail->Password="hrmtjevmijlnvbbj";
         //set email subject
